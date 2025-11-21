@@ -22,7 +22,7 @@ This project is built entirely using **HTML, CSS, and JavaScript** — no framew
 
 ---
 
-## ✨ Features
+##  Features
 
 ###  1. Tablet Intro & Typing Animation
 
@@ -180,8 +180,3 @@ For commercial use, replace copyrighted movie assets.
 
 ---
 
-✅ A professional GitHub repo structure
-✅ A project description for LinkedIn
-✅ A demo video script
-✅ A futuristic loading animation
-Just ask!
