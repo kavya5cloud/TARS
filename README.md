@@ -16,7 +16,7 @@ It includes:
 * A **chat system** with dynamic TARS responses
 * A **space view mode** with a rocket fly-by animation
 * Smooth transitions and cinematic effects
-* Custom sci-fi fonts and neon green theme
+* Custom sci-fi fonts and neon green theme 
 
 This project is built entirely using **HTML, CSS, and JavaScript** — no frameworks required.
 
